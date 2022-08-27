@@ -5,11 +5,14 @@
 # 公众号appSecret
 "app_secret": "b366d38e44e62f8f5c83b0b0b155209c",
 # 模板消息id
-"template_id": "3AnOgECMo9uTe6D2H2AIZcHONWykDVNBIibTJx_-z4Q",
+"template_id": "_5G0c6H6cRU2vhQ4P3X_8L9wAFcgRLLMlYtbCw7fd9I",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["owWpU6OpSrHBNmcEQyj9AGkQmNcg"],
  
 # 信息配置
+#备注
+"beizhu"："要每天想我爱我哦！"
+"saylove"："我见过春日夏风秋叶冬雪，也踏遍南水北山东麓西岭，可这四季春秋苍山泱水，都不及你冲我展眉一笑。"
 # 和风天气apikey
 "weather_key": "25f97861362342949f563a7518e7ffc0",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
